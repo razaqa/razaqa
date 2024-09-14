@@ -33,6 +33,6 @@
     <img height=200 align="center" src="https://github-readme-stats-alpha-lac-92.vercel.app/api?username=razaqa&show_icons=true&locale=en&hide_rank=true&theme=radical&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true" alt="razaqa" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razaqa&theme=radical&card_width=350&hide_longest_streak=true" alt="razaqa" />
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razaqa&theme=radical" alt="razaqa" />
   </a>
 </p>
