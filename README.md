@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Razaqa Dhafin</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=razaqa&label=Profile%20views&color=0e75b6&style=flat" alt="razaqa" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=razaqa&label=Profile%20views&color=0e75b6&style=flat" alt="razaqa" />
+  <a href="https://www.linkedin.com/in/razaaf">
+    <img src="https://img.shields.io/badge/-razaqa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razaaf" alt="razaqa" />
+  </a>
+  <a href="https://github.com/razaqa">
+    <img src="https://img.shields.io/github/followers/razaqa?label=follow&style=social" alt="razaqa" />
+  </a>
+</p>
+
 <h3 align="center">A passionate software engineer (back-end) from Devoux Kingdom, Konoha Republic 🇮🇩</h3>
 
 -----
@@ -26,12 +35,4 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razaqa&theme=radical&card_width=350&hide_longest_streak=true" alt="razaqa" />
   </a>
-</p>
-
-
-<br>
-
-<p align="center">
-<a href="https://linkedin.com/in/razaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razaaf" height="30" width="40" /></a>
-<a href="https://instagram.com/razaqa.dhafin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razaqa.dhafin_" height="30" width="40" /></a>
 </p>
